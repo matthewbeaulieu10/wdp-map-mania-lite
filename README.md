@@ -1,3 +1,5 @@
-# Node.js and Express Hosted on Microsoft Azure Template
-This repository serves as a template that can be used to create a Node.js and Express based website that can easily
-be hosted on Microsoft Azure.
+# Matthew Beaulieu's WDP Map Mania Lite Assignment -- USING ERIC J. POGUE'S "node-hosted-on-azure-template"
+
+Matthew Beaulieu -- WDP Map Mania Lite - matthewtbeaulieu@lewisu.edu
+
+go to https://wdp-map-mania-lite-mb.azurewebsites.net to run it
